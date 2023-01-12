@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p aligh='left'>
+<!-- p aligh='left'>
   <img alt='Top Langs' height='150px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=neige68&layout=compact&theme=dark&langs_count=10' />
   <img alt='GitHub stats' height='150px' src='https://github-readme-stats.vercel.app/api?username=neige68&theme=dark' />
-</p>
+</p -->
