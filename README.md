@@ -1,6 +1,6 @@
 ### こんにちは 👋
 
-自分用リンク [escity](https://github.com/escity26/escity)
+自分用リンク [houstonsoft](https://github.com/houstonsoft) [escity](https://github.com/escity26/escity)
 
 <!--
 **neige68/neige68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
